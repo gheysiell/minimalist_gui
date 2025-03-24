@@ -1,5 +1,8 @@
 # minimalist_gui
 
+| ![Home](https://raw.githubusercontent.com/gheysiell/images/main/minimalist_gui.png) | !
+|:---:|:---:|
+
 ## Project made in C, implements a minimalist screen
 
 ## Run
